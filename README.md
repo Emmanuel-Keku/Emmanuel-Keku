@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Emmanuel Keku 👋
 
-<!--
-**Emmanuel-Keku/Emmanuel-Keku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Statistician | Data Scientist | ML Researcher | Incoming PhD Student
 
-Here are some ideas to get you started:
+MS Mathematical Data Science Graduate (Tarleton State University, GPA: 3.8/4.0).  
+Incoming PhD Student in AI & Machine Learning at University of North Dakota.  
+Author of 9 peer-reviewed publications. Davidson Presidential Scholar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Education
+- 🔬 **PhD - AI & Machine Learning** | University of North Dakota *(Starting August 2026)*
+- 📊 **MS - Mathematical Data Science** | Tarleton State University, TX *(2025-2026)*
+- 📈 **MPhil - Mathematical Statistics** | KNUST, Ghana *(2021-2025)*
+- 📉 **BSc - Statistics** | KNUST, Ghana *(2015-2019)*
+
+---
+
+### 🛠️ Technical Skills
+- **Languages:** Python, R (Advanced), SQL, LaTeX
+- **Libraries:** Pandas, Scikit-learn, PyMC, XGBoost, SHAP
+- **Tools:** Power BI, Tableau, REDCap, Qualtrics, SPSS, Stata
+- **Expertise:** Bayesian Statistics, Machine Learning, Spatio-temporal Modeling
+
+---
+
+### 🚀 Featured Projects
+- 🧠 **[Predictive Models for the Early Detection of Postnatal Depression in Women](link-coming-soon)** 
+  
+- 🧠 **[Predictive Models for the Early Detection of Postpartum Depression in Women](link-coming-soon)** 
+  
+- 🧠 **[Gradient Boosting Models of Perienatal Depression in Women](link-coming-soon)** 
+  Hybrid probalistic-Ensemble Framework | XGBoost (R²=0.723) | PyMC | SHAP
+- 🦠 **[Mayaro Virus Transmission Modeling](link-coming-soon)**
+  Deterministic & Stochastic SEIR Models | Public Health Application
+---
+
+### 📚 Selected Publications
+- Annan V, Boateng EA, **Keku E**, et al. (2026). Lived experiences of 
+  HIV/AIDS stigma. *BMJ Public Health.*
+- **Keku E**, et al. (2024). Prevalence of postpartum depression in Ghana: 
+  A systematic review. *Scientific Electronic Archives.*
+- **Keku E**, et al. (2025). Rural immunisation status: Yellow fever 
+  vaccination in Ashanti Region. *Rwanda Journal of Medicine & Health Sciences.*
+
+👉 **[See all 9 publications](https://orcid.org/0000-0001-5864-4843)**
+
+---
+
+### 🏆 Honors & Awards
+- 🥈 2nd Best Poster - RIED Research Symposium, Tarleton State (2026)
+- 🎖️ Davidson Presidential Scholarship - Tarleton State University
+- 🌍 Lozano Long Division Global Scholarship - Tarleton State University
+- 🏅 Pentecost Brilliant but Needy Scholars Award - Ghana
+
+---
+
+### 📫 Contact Me
+- 📧 **Email:** ekekuinchrist247@gmail.com
+- 🔬 **ORCID:** https://orcid.org/0000-0001-5864-4843
+- 💼 **LinkedIn:** *(Add your LinkedIn URL here)*
+- 📍 Stephenville, TX | Moving to Grand Forks, ND (June 2026)

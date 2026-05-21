@@ -58,5 +58,5 @@ Author of 9 peer-reviewed publications. Davidson Presidential Scholar.
 ### 📫 Contact Me
 - 📧 **Email:** ekekuinchrist247@gmail.com
 - 🔬 **ORCID:** https://orcid.org/0000-0001-5864-4843
-- 💼 **LinkedIn:** *(Add your LinkedIn URL here)*
+- 💼 **LinkedIn:** *(www.linkedin.com/in/emmanuel-keku-4381251b3)*
 - 📍 Stephenville, TX | Moving to Grand Forks, ND (June 2026)

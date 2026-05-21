@@ -2,7 +2,7 @@
 
 ### Statistician | Data Scientist | ML Researcher | Incoming PhD Student
 
-MS Mathematical Data Science Graduate (Tarleton State University, GPA: 3.8/4.0).  
+MS Mathematical Data Science Graduate (Tarleton State University).  
 Incoming PhD Student in AI & Machine Learning at University of North Dakota.  
 Author of 9 peer-reviewed publications. Davidson Presidential Scholar.
 

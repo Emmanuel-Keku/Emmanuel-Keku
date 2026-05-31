@@ -23,7 +23,7 @@ Author of 9 peer-reviewed publications. Davidson Presidential Scholar.
 - **Languages:** Python, R (Advanced), SQL, LaTeX
 - **Libraries:** Pandas, Scikit-learn, PyMC, XGBoost, SHAP
 - **Tools:** Power BI, Tableau, REDCap, Qualtrics, SPSS, Stata
-- **Expertise:** Bayesian Statistics, Machine Learning, Spatio-temporal Modeling
+- **Expertise:** Predictive Modelling, Bayesian Statistics, Machine Learning, Spatio-temporal Modeling
 
 ---
 

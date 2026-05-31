@@ -1,6 +1,6 @@
 # Hi, I'm Emmanuel Keku 👋
 
-### Statistician | Data Scientist | ML Researcher | Incoming PhD Student
+### Statistician | Data Scientist | ML Researcher | PhD Student
 
  
  

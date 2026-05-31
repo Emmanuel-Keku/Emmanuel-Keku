@@ -12,7 +12,7 @@ Author of 9 peer-reviewed publications. Davidson Presidential Scholar.
 ---
 
 ### 🎓 Education
-- 🔬 **PhD - AI & Machine Learning** | University of North Dakota *(June 2026 -2029)*
+- 🔬 **PhD - AI & Machine Learning** | University of North Dakota *(2026 -2029)*
 - 📊 **MS - Mathematical Data Science** | Tarleton State University, TX *(2025-2026)*
 - 📈 **MPhil - Mathematical Statistics** | KNUST, Ghana *(2021-2025)*
 - 📉 **BSc - Statistics** | KNUST, Ghana *(2015-2019)*

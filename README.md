@@ -4,7 +4,7 @@
 
  
  
-MS Mathematical Data Science Graduate (Tarleton State University). 
+MS Mathematical Data Science Graduate (Tarleton State University).
 BSc and Mphil in Mathematical Statistics Graduate (Kwame University of Science and Technology, Ghana).
 PhD Student in AI & Machine Learning at University of North Dakota. 
 Author of 9 peer-reviewed publications. Davidson Presidential Scholar.
